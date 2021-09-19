@@ -3,7 +3,7 @@
 This is a simple "Hello World!" program. I am demonstrating VS Code, GitHub, and Python integrating together.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Teresa Moser Hello World](https://youtu.be/I_y8ljol5GA)
 
 # Development Environment
 
