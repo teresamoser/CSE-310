@@ -6,7 +6,7 @@ The purpose for writing this software is to demonstrate what I have learned abou
 Here is the link to my YouTube demonstration:
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Teresa Moser Java Module 2](https://youtu.be/HRufyI5UDFw)
 
 # Development Environment
 * Visual Studio Code-- to write my Java language program.
@@ -23,6 +23,6 @@ Here is the link to my YouTube demonstration:
 
 # Future Work
 
-* Add a user input feature to make entry easy and adding to the data base.
+* Add a user input feature to make entry easy and adding students and teachers to the data base.
 * Add a "Look up" feature to find a specific student or teacher.
-* Item 3
+* Add a budget file to keep track of teacher salarys and student fees.
